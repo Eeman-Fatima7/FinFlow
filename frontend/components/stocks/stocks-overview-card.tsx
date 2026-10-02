@@ -1,16 +1,11 @@
 import { TrendingDown, TrendingUp } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { formatMoney, usePreferences } from '@/lib/preferences';
+import { formatMoney, resolveCurrency, usePreferences } from '@/lib/preferences';
 import type { StockProfile } from '@/lib/stocks-types';
 
 type StocksOverviewCardProps = {
   profile: StockProfile | null;
   loading: boolean;
-};
-
-const resolveCurrency = (value: string, fallback = 'USD') => {
-  const code = typeof value === 'string' ? value.trim().toUpperCase() : '';
-  return code || fallback;
 };
 
 const formatNumber = (value: number | null, fractionDigits = 2) => {
@@ -26,7 +21,7 @@ export function StocksOverviewCard({ profile, loading }: StocksOverviewCardProps
 
   const formatCurrency = (value: number | null, currencyCode: string) => {
     if (value === null || Number.isNaN(Number(value))) return 'N/A';
-    const currency = resolveCurrency(currencyCode, 'USD');
+    const currency = resolveCurrency(currencyCode);
     return formatMoney(value, currency, preferences.language);
   };
 

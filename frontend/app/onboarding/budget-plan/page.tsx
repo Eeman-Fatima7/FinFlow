@@ -344,19 +344,21 @@ export default function OnboardingBudgetPlanPage() {
     setError(null);
 
     try {
-      const payload = {
-        monthly_income: parseNumberInput(monthlyIncome),
-        occupation,
-        city,
-        has_debt: hasDebt,
-        debt_amount: hasDebt ? parseNumberInput(debtAmount) : null,
-        minimum_monthly_debt_payment: hasDebt ? parseNumberInput(minimumDebtPayment) : null,
-        debt_priority: hasDebt ? debtPriority : null,
-        debt_priority_mode: hasDebt ? debtPriorityMode : 'avalanche',
-        debt_type: hasDebt ? debtType : null,
-        debt_notes: hasDebt ? debtNotes : null,
-        ...buildQuestionnairePayload(),
-      };
+  const payload = {
+    monthly_income: parseNumberInput(monthlyIncome),
+    occupation,
+    city,
+    has_debt: hasDebt,
+
+    ...buildQuestionnairePayload(),
+
+    debt_amount: hasDebt ? parseNumberInput(debtAmount) : null,
+    minimum_monthly_debt_payment: hasDebt ? parseNumberInput(minimumDebtPayment) : null,
+    debt_priority: hasDebt ? debtPriority : null,
+    debt_priority_mode: hasDebt ? debtPriorityMode : 'avalanche',
+    debt_type: hasDebt ? debtType : null,
+    debt_notes: hasDebt ? debtNotes : null,
+  };
 
       const response = await apiRequest<PlanResponse>('/onboarding/budget-plan/preview', {
         method: 'POST',
@@ -382,30 +384,33 @@ export default function OnboardingBudgetPlanPage() {
     setSuccess(null);
     setError(null);
 
-    try {
-      const payload = {
-        source: 'user_edit',
-        monthly_income: parseNumberInput(monthlyIncome),
-        occupation,
-        city,
-        has_debt: hasDebt,
-        debt_amount: hasDebt ? parseNumberInput(debtAmount) : null,
-        minimum_monthly_debt_payment: hasDebt ? parseNumberInput(minimumDebtPayment) : null,
-        debt_priority: hasDebt ? debtPriority : null,
-        debt_priority_mode: hasDebt ? debtPriorityMode : 'avalanche',
-        debt_type: hasDebt ? debtType : null,
-        debt_notes: hasDebt ? debtNotes : null,
-        ...buildQuestionnairePayload(),
-        recommended_savings_amount: parseNumberInput(savingsAmount),
-        recommended_monthly_debt_payment: hasDebt
-          ? allocations.find((item) => item.is_debt_allocation)?.allocation_amount || 0
-          : 0,
-        allocations: allocations.map((allocation) => ({
-          category_id: allocation.category_id,
-          allocation_amount: Number(allocation.allocation_amount || 0),
-          is_debt_allocation: allocation.is_debt_allocation,
-        })),
-      };
+try {
+  const payload = {
+    source: 'user_edit',
+    monthly_income: parseNumberInput(monthlyIncome),
+    occupation,
+    city,
+    has_debt: hasDebt,
+
+    ...buildQuestionnairePayload(),
+
+    debt_amount: hasDebt ? parseNumberInput(debtAmount) : null,
+    minimum_monthly_debt_payment: hasDebt ? parseNumberInput(minimumDebtPayment) : null,
+    debt_priority: hasDebt ? debtPriority : null,
+    debt_priority_mode: hasDebt ? debtPriorityMode : 'avalanche',
+    debt_type: hasDebt ? debtType : null,
+    debt_notes: hasDebt ? debtNotes : null,
+
+    recommended_savings_amount: parseNumberInput(savingsAmount),
+    recommended_monthly_debt_payment: hasDebt
+      ? allocations.find((item) => item.is_debt_allocation)?.allocation_amount || 0
+      : 0,
+    allocations: allocations.map((allocation) => ({
+      category_id: allocation.category_id,
+      allocation_amount: Number(allocation.allocation_amount || 0),
+      is_debt_allocation: allocation.is_debt_allocation,
+    })),
+  };
 
       const response = await apiRequest<PlanResponse & { message: string }>('/onboarding/budget-plan', {
         method: 'PUT',

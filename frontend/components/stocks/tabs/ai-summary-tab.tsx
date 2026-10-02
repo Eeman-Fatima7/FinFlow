@@ -1,6 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { formatMoney, usePreferences } from '@/lib/preferences';
+import { formatMoney, resolveCurrency, usePreferences } from '@/lib/preferences';
 
 type StockAiSummary = {
   action: 'BUY' | 'HOLD' | 'SELL';
@@ -26,11 +26,6 @@ const formatNumber = (value: number | null, digits = 2) => {
   return Number(value).toFixed(digits);
 };
 
-const resolveCurrency = (value: string, fallback = 'USD') => {
-  const code = typeof value === 'string' ? value.trim().toUpperCase() : '';
-  return code || fallback;
-};
-
 const actionClass = (action: StockAiSummary['action']) => {
   if (action === 'BUY') return 'text-green-600';
   if (action === 'SELL') return 'text-red-600';
@@ -42,7 +37,7 @@ export function AiSummaryTab({ ticker, insights, loading, onGenerate }: AiSummar
 
   const formatCurrency = (value: number | null, currencyCode: string) => {
     if (value === null || Number.isNaN(Number(value))) return 'N/A';
-    const currency = resolveCurrency(currencyCode, 'USD');
+    const currency = resolveCurrency(currencyCode);
     return formatMoney(value, currency, preferences.language);
   };
 

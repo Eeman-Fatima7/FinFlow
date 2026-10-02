@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { formatMoney, usePreferences } from '@/lib/preferences';
+import { formatMoney, resolveCurrency, usePreferences } from '@/lib/preferences';
 import type { StockIndicators } from '@/lib/stocks-types';
 
 type IndicatorsTabProps = {
@@ -12,10 +12,7 @@ const formatValue = (value: number | null) => {
   return Number(value.toFixed(2)).toLocaleString('en-US');
 };
 
-const resolveCurrency = (value: string, fallback = 'USD') => {
-  const code = typeof value === 'string' ? value.trim().toUpperCase() : '';
-  return code || fallback;
-};
+
 
 const trendClass = (value: StockIndicators['macd_trend']) => {
   if (value === 'BULLISH') return 'text-green-600';
@@ -28,7 +25,7 @@ export function IndicatorsTab({ indicators, loading }: IndicatorsTabProps) {
 
   const formatCurrency = (value: number | null, currencyCode: string) => {
     if (value === null || Number.isNaN(Number(value))) return 'N/A';
-    const currency = resolveCurrency(currencyCode, 'USD');
+    const currency = resolveCurrency(currencyCode);
     return formatMoney(value, currency, preferences.language);
   };
 
