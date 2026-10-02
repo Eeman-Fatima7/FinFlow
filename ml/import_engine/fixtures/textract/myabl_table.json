@@ -1,0 +1,67 @@
+{
+  "Blocks": [
+    {"BlockType": "LINE", "Id": "l1", "Page": 1, "Text": "Allied Bank MyABL Statement", "Confidence": 98.2},
+    {"BlockType": "LINE", "Id": "l2", "Page": 1, "Text": "Debit Credit Balance Activity", "Confidence": 97.5},
+
+    {
+      "BlockType": "TABLE",
+      "Id": "t1",
+      "Page": 1,
+      "Relationships": [
+        {
+          "Type": "CHILD",
+          "Ids": [
+            "c11", "c12", "c13", "c14", "c15", "c16",
+            "c21", "c22", "c23", "c24", "c25", "c26",
+            "c31", "c32", "c33", "c34", "c35", "c36"
+          ]
+        }
+      ]
+    },
+
+    {"BlockType": "CELL", "Id": "c11", "RowIndex": 1, "ColumnIndex": 1, "Page": 1, "Confidence": 99, "Relationships": [{"Type": "CHILD", "Ids": ["w11"]}]},
+    {"BlockType": "CELL", "Id": "c12", "RowIndex": 1, "ColumnIndex": 2, "Page": 1, "Confidence": 99, "Relationships": [{"Type": "CHILD", "Ids": ["w12"]}]},
+    {"BlockType": "CELL", "Id": "c13", "RowIndex": 1, "ColumnIndex": 3, "Page": 1, "Confidence": 99, "Relationships": [{"Type": "CHILD", "Ids": ["w13"]}]},
+    {"BlockType": "CELL", "Id": "c14", "RowIndex": 1, "ColumnIndex": 4, "Page": 1, "Confidence": 99, "Relationships": [{"Type": "CHILD", "Ids": ["w14"]}]},
+    {"BlockType": "CELL", "Id": "c15", "RowIndex": 1, "ColumnIndex": 5, "Page": 1, "Confidence": 99, "Relationships": [{"Type": "CHILD", "Ids": ["w15"]}]},
+    {"BlockType": "CELL", "Id": "c16", "RowIndex": 1, "ColumnIndex": 6, "Page": 1, "Confidence": 99, "Relationships": [{"Type": "CHILD", "Ids": ["w16"]}]},
+
+    {"BlockType": "CELL", "Id": "c21", "RowIndex": 2, "ColumnIndex": 1, "Page": 1, "Confidence": 96, "Relationships": [{"Type": "CHILD", "Ids": ["w21"]}]},
+    {"BlockType": "CELL", "Id": "c22", "RowIndex": 2, "ColumnIndex": 2, "Page": 1, "Confidence": 95, "Relationships": [{"Type": "CHILD", "Ids": ["w22", "w23", "w24", "w25"]}]},
+    {"BlockType": "CELL", "Id": "c23", "RowIndex": 2, "ColumnIndex": 3, "Page": 1, "Confidence": 94, "Relationships": [{"Type": "CHILD", "Ids": ["w26"]}]},
+    {"BlockType": "CELL", "Id": "c24", "RowIndex": 2, "ColumnIndex": 4, "Page": 1, "Confidence": 94, "Relationships": [{"Type": "CHILD", "Ids": []}]},
+    {"BlockType": "CELL", "Id": "c25", "RowIndex": 2, "ColumnIndex": 5, "Page": 1, "Confidence": 93, "Relationships": [{"Type": "CHILD", "Ids": ["w27"]}]},
+    {"BlockType": "CELL", "Id": "c26", "RowIndex": 2, "ColumnIndex": 6, "Page": 1, "Confidence": 93, "Relationships": [{"Type": "CHILD", "Ids": ["w28"]}]},
+
+    {"BlockType": "CELL", "Id": "c31", "RowIndex": 3, "ColumnIndex": 1, "Page": 1, "Confidence": 96, "Relationships": [{"Type": "CHILD", "Ids": ["w31"]}]},
+    {"BlockType": "CELL", "Id": "c32", "RowIndex": 3, "ColumnIndex": 2, "Page": 1, "Confidence": 95, "Relationships": [{"Type": "CHILD", "Ids": ["w32", "w33", "w34"]}]},
+    {"BlockType": "CELL", "Id": "c33", "RowIndex": 3, "ColumnIndex": 3, "Page": 1, "Confidence": 94, "Relationships": [{"Type": "CHILD", "Ids": []}]},
+    {"BlockType": "CELL", "Id": "c34", "RowIndex": 3, "ColumnIndex": 4, "Page": 1, "Confidence": 94, "Relationships": [{"Type": "CHILD", "Ids": ["w35"]}]},
+    {"BlockType": "CELL", "Id": "c35", "RowIndex": 3, "ColumnIndex": 5, "Page": 1, "Confidence": 93, "Relationships": [{"Type": "CHILD", "Ids": ["w36"]}]},
+    {"BlockType": "CELL", "Id": "c36", "RowIndex": 3, "ColumnIndex": 6, "Page": 1, "Confidence": 93, "Relationships": [{"Type": "CHILD", "Ids": ["w37"]}]},
+
+    {"BlockType": "WORD", "Id": "w11", "Page": 1, "Text": "Date", "Confidence": 99},
+    {"BlockType": "WORD", "Id": "w12", "Page": 1, "Text": "Description", "Confidence": 99},
+    {"BlockType": "WORD", "Id": "w13", "Page": 1, "Text": "Debit", "Confidence": 99},
+    {"BlockType": "WORD", "Id": "w14", "Page": 1, "Text": "Credit", "Confidence": 99},
+    {"BlockType": "WORD", "Id": "w15", "Page": 1, "Text": "Balance", "Confidence": 99},
+    {"BlockType": "WORD", "Id": "w16", "Page": 1, "Text": "Reference", "Confidence": 99},
+
+    {"BlockType": "WORD", "Id": "w21", "Page": 1, "Text": "01/03/2026", "Confidence": 96},
+    {"BlockType": "WORD", "Id": "w22", "Page": 1, "Text": "POS", "Confidence": 95},
+    {"BlockType": "WORD", "Id": "w23", "Page": 1, "Text": "Purchase", "Confidence": 95},
+    {"BlockType": "WORD", "Id": "w24", "Page": 1, "Text": "ALFA", "Confidence": 95},
+    {"BlockType": "WORD", "Id": "w25", "Page": 1, "Text": "MART", "Confidence": 95},
+    {"BlockType": "WORD", "Id": "w26", "Page": 1, "Text": "1,250.00", "Confidence": 94},
+    {"BlockType": "WORD", "Id": "w27", "Page": 1, "Text": "25,120.00", "Confidence": 93},
+    {"BlockType": "WORD", "Id": "w28", "Page": 1, "Text": "TRX12345", "Confidence": 93},
+
+    {"BlockType": "WORD", "Id": "w31", "Page": 1, "Text": "02/03/2026", "Confidence": 96},
+    {"BlockType": "WORD", "Id": "w32", "Page": 1, "Text": "Salary", "Confidence": 95},
+    {"BlockType": "WORD", "Id": "w33", "Page": 1, "Text": "Credit", "Confidence": 95},
+    {"BlockType": "WORD", "Id": "w34", "Page": 1, "Text": "ACME", "Confidence": 95},
+    {"BlockType": "WORD", "Id": "w35", "Page": 1, "Text": "95,000.00", "Confidence": 94},
+    {"BlockType": "WORD", "Id": "w36", "Page": 1, "Text": "120,120.00", "Confidence": 93},
+    {"BlockType": "WORD", "Id": "w37", "Page": 1, "Text": "TRX12346", "Confidence": 93}
+  ]
+}

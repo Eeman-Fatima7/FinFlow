@@ -1,0 +1,52 @@
+{
+  "Blocks": [
+    {
+      "BlockType": "LINE",
+      "Id": "ln1",
+      "Page": 1,
+      "Text": "SadaPay Statement",
+      "Confidence": 98.4,
+      "Geometry": { "BoundingBox": { "Top": 0.05, "Left": 0.08 } }
+    },
+    {
+      "BlockType": "LINE",
+      "Id": "ln2",
+      "Page": 1,
+      "Text": "01/03/2026",
+      "Confidence": 94.0,
+      "Geometry": { "BoundingBox": { "Top": 0.18, "Left": 0.08 } }
+    },
+    {
+      "BlockType": "LINE",
+      "Id": "ln3",
+      "Page": 1,
+      "Text": "Intra Bank - Wallet to Wallet Transfer(Debit)",
+      "Confidence": 92.0,
+      "Geometry": { "BoundingBox": { "Top": 0.23, "Left": 0.11 } }
+    },
+    {
+      "BlockType": "LINE",
+      "Id": "ln4",
+      "Page": 1,
+      "Text": "TXN ID SP9981 | Tax 0.00 | Fees 0.00 | Total 2,200.00",
+      "Confidence": 91.5,
+      "Geometry": { "BoundingBox": { "Top": 0.27, "Left": 0.11 } }
+    },
+    {
+      "BlockType": "LINE",
+      "Id": "ln5",
+      "Page": 1,
+      "Text": "02/03/2026 cashback reward 150.00 credit ref SP9982",
+      "Confidence": 93.0,
+      "Geometry": { "BoundingBox": { "Top": 0.35, "Left": 0.08 } }
+    },
+    {
+      "BlockType": "LINE",
+      "Id": "ln6",
+      "Page": 1,
+      "Text": "Closing balance 45,650.00",
+      "Confidence": 96.0,
+      "Geometry": { "BoundingBox": { "Top": 0.9, "Left": 0.08 } }
+    }
+  ]
+}

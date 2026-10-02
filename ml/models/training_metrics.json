@@ -1,0 +1,10 @@
+{
+  "model_version": "feedback-2026-04-12T20-56-16-905Z",
+  "trained_at": "2026-04-12T21:05:41.015559+00:00",
+  "selected_classifier": "CalibratedClassifierCV(LinearSVC)",
+  "accuracy": 0.9472786885245902,
+  "macro_f1": 0.9501687456975427,
+  "feedback_rows_used": 0,
+  "training_samples": 38125,
+  "below_threshold_categories": []
+}

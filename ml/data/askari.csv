@@ -1,0 +1,681 @@
+date,description,amount,type,channel,source_bank,category
+2/6/2025,EB752792913 UBL Raast IBFT from MUHAMMAD ZUBAIR IBAN ****5886,15000,income,raast_incoming,Askari Bank,Income
+2/6/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,4000,income,raast_incoming,Askari Bank,Income
+2/8/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,4000,income,raast_incoming,Askari Bank,Income
+2/13/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,2000,income,raast_incoming,Askari Bank,Income
+2/14/2025,00430683 CASH WITHDRAWL,20000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+3/4/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,5615,income,raast_incoming,Askari Bank,Income
+3/4/2025,462020 145741 1LINK SAJJAD HUSSAIN ****5873,18000,income,1link_transfer,Askari Bank,Income
+3/4/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,6000,income,raast_incoming,Askari Bank,Income
+3/6/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,441,income,raast_incoming,Askari Bank,Income
+3/6/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,421,income,raast_incoming,Askari Bank,Income
+3/7/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,1800,income,raast_incoming,Askari Bank,Income
+3/7/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,1850,income,raast_incoming,Askari Bank,Income
+3/8/2025,365330 224751 Cash Withdrawal at ATM-PARHOTI MARDAN PK,1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+3/8/2025,365330 224751 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+3/8/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,798,income,raast_incoming,Askari Bank,Income
+3/10/2025,Raast IBFT to AWAIS KHAN ADIL IBAN ****8954,550,expense,raast_outgoing,Askari Bank,Transfers
+3/12/2025,Raast IBFT to ZOHRA BAIGUM IBAN ****9756,10,expense,raast_outgoing,Askari Bank,Transfers
+3/12/2025,Raast IBFT to ZOHRA BAIGUM IBAN ****9756,341,expense,raast_outgoing,Askari Bank,Transfers
+3/14/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,2174,income,raast_incoming,Askari Bank,Income
+3/15/2025,Raast IBFT to SHERAZ SHERAZ IBAN ****8528,120,expense,raast_outgoing,Askari Bank,Transfers
+3/15/2025,876020 191723 VISA Local POS Purchase at KFC-MARDAN MARDAN PK,1790,expense,card_purchase,Askari Bank,Food & Dining
+3/17/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,812,income,raast_incoming,Askari Bank,Income
+3/17/2025,Raast IBFT to SHERAZ SHERAZ IBAN ****8528,280,expense,raast_outgoing,Askari Bank,Transfers
+3/17/2025,311258 164841 VISA Local POS Purchase at SWEETS INN Mardan PK,500,expense,card_purchase,Askari Bank,Food & Dining
+3/19/2025,131175 144553 1LINK SAJJAD HUSSAIN ****5873,4000,income,1link_transfer,Askari Bank,Income
+3/21/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,910,income,raast_incoming,Askari Bank,Income
+3/21/2025,Raast P2P Paymen Raast IBFT from ZOHRA BAIGUM IBAN ****9756,400,income,raast_incoming,Askari Bank,Income
+3/22/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,300,expense,raast_outgoing,Askari Bank,Transfers
+3/24/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,140,expense,raast_outgoing,Askari Bank,Transfers
+3/24/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,140,expense,raast_outgoing,Askari Bank,Transfers
+3/24/2025,Raast IBFT to ZOHRA BAIGUM IBAN ****9756,100,expense,raast_outgoing,Askari Bank,Transfers
+3/25/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,1,expense,raast_outgoing,Askari Bank,Transfers
+3/26/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,3000,income,raast_incoming,Askari Bank,Income
+3/28/2025,Raast IBFT to SHERAZ KHAN IBAN ****1991,420,expense,raast_outgoing,Askari Bank,Transfers
+3/29/2025,EB791203878 UBL Raast IBFT from MUHAMMAD ZUBAIR IBAN ****5886,18000,income,raast_incoming,Askari Bank,Income
+4/3/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,500,income,raast_incoming,Askari Bank,Income
+4/4/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD ZUBAIR IBAN ****8278,600,income,raast_incoming,Askari Bank,Income
+4/7/2025,Raast IBFT to MUHAMMAD NAVEED IBAN ****9396,210,expense,raast_outgoing,Askari Bank,Transfers
+4/8/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,250,expense,raast_outgoing,Askari Bank,Transfers
+4/8/2025,574381 183221 VISA Local POS Purchase at SAVE AND GO CASH N C ISLAMABAD PK,205,expense,card_purchase,Askari Bank,Groceries
+4/8/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,60,income,raast_incoming,Askari Bank,Income
+4/9/2025,730578 120622 VISA Local POS Purchase at ZAIN AND TAHA TRADERS PRIslamabad PK,380,expense,card_purchase,Askari Bank,Groceries
+4/9/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,380,income,raast_incoming,Askari Bank,Income
+4/11/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,17000,income,raast_incoming,Askari Bank,Income
+4/14/2025,Raast IBFT to JAWAD GHANI IBAN ****1425,780,expense,raast_outgoing,Askari Bank,Transfers
+4/14/2025,Raast IBFT to MUMTAZ AHMED IBAN ****6747,150,expense,raast_outgoing,Askari Bank,Transfers
+4/14/2025,499979 194949 Mobile App ASIM KHAN ****5886,2000,expense,mobile_app_transfer,Askari Bank,Transfers
+4/21/2025,"845194 162824 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",20000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+4/21/2025,845194 162824 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+4/21/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,4500,expense,raast_outgoing,Askari Bank,Transfers
+4/21/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,1000,expense,raast_outgoing,Askari Bank,Transfers
+4/21/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,1700,income,raast_incoming,Askari Bank,Income
+4/21/2025,EB805872056 UBL Raast IBFT from MUHAMMAD ZUBAIR IBAN ****5886,3800,income,raast_incoming,Askari Bank,Income
+4/22/2025,Raast IBFT to HAMZA RAHIM IBAN ****0085,1000,expense,raast_outgoing,Askari Bank,Transfers
+4/28/2025,Raast P2P Paymen Raast IBFT from MUMTAZ KHAN IBAN ****0175,1500,income,raast_incoming,Askari Bank,Income
+4/28/2025,404602 164522 VISA Local POS Purchase at CHASE UP MARDAN PK,1700,expense,card_purchase,Askari Bank,Shopping
+4/28/2025,372578 013754 Mobile App Askari Bank Ltd TARIQ HUSSAIN ****0937,80000,expense,mobile_app_transfer,Askari Bank,Transfers
+4/28/2025,Raast IBFT to HAMZA RAHIM IBAN ****0085,1200,expense,raast_outgoing,Askari Bank,Transfers
+4/30/2025,Raast IBFT to HAMZA RAHIM IBAN ****0085,347,expense,raast_outgoing,Askari Bank,Transfers
+5/3/2025,867259 190042 VISA Local POS Purchase at HUNGER HUB SMC PRIVATE Mardan PK,710,expense,card_purchase,Askari Bank,Food & Dining
+5/5/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,590,expense,raast_outgoing,Askari Bank,Transfers
+5/8/2025,871838 190839 1LINK MUHAMMAD BILAL ****5376,7000,income,1link_transfer,Askari Bank,Income
+5/12/2025,Raast IBFT to MUSA MART IBAN ****9210,160,expense,raast_outgoing,Askari Bank,Groceries
+5/12/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,160,income,raast_incoming,Askari Bank,Income
+5/13/2025,"121501 174126 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+5/13/2025,121501 174126 ATM Switch Charges,26.57,expense,bank_fee,Askari Bank,Fees & Charges
+5/14/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,1027,income,raast_incoming,Askari Bank,Income
+5/15/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,1000,expense,raast_outgoing,Askari Bank,Transfers
+5/15/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,1000,income,raast_outgoing,Askari Bank,Income
+5/15/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,500,expense,raast_outgoing,Askari Bank,Transfers
+5/17/2025,Raast P2P Paymen Raast IBFT from SOHAIL AHMED KHAN IBAN ****2907,1300,income,raast_incoming,Askari Bank,Income
+5/19/2025,916631 183127 VISA Local POS Purchase at DOMINO'S (MARDAAN) MARDAN PK,2750,expense,card_purchase,Askari Bank,Food & Dining
+5/19/2025,702624 191620 VISA Local POS Purchase at KFC-MARDAN MARDAN PK,310,expense,card_purchase,Askari Bank,Food & Dining
+5/19/2025,709238 191730 VISA Local POS Purchase at KFC-MARDAN MARDAN PK,280,expense,card_purchase,Askari Bank,Food & Dining
+5/19/2025,721807 191946 VISA Local POS Purchase at KFC-MARDAN MARDAN PK,140,expense,card_purchase,Askari Bank,Food & Dining
+5/19/2025,933263 004416 Cash Withdrawal at ATM-PARHOTI MARDAN PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+5/19/2025,933263 004416 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+5/19/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,203,income,raast_incoming,Askari Bank,Income
+5/20/2025,116521 162944 1LINK MUHAMMAD BILAL ****5376,3650,income,1link_transfer,Askari Bank,Income
+5/23/2025,430403 143039 Mobile App Askari Bank Ltd IQRA UNIVERSITY COLLECTION A\C ****0822,1500,expense,mobile_app_transfer,Askari Bank,Education
+5/23/2025,Raast IBFT to IJAZ AHMED IBAN ****3610,950,expense,raast_outgoing,Askari Bank,Transfers
+5/23/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,110,expense,raast_outgoing,Askari Bank,Transfers
+5/24/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,1578,income,raast_incoming,Askari Bank,Income
+5/24/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,3,expense,raast_outgoing,Askari Bank,Transfers
+5/24/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,1400,income,raast_incoming,Askari Bank,Income
+5/26/2025,088893 203737 VISA Local POS Purchase at LA OLIVA ES SMC PRIV ISLAMABAD PK,1780,expense,card_purchase,Askari Bank,Food & Dining
+5/26/2025,718626 172022 1LINK MUHAMMAD BILAL ****5376,3000,income,1link_transfer,Askari Bank,Income
+5/26/2025,0016 Raast IBFT from MUHAMMAD BILAL IBAN ****5376,1000,income,raast_incoming,Askari Bank,Income
+5/26/2025,0016 Raast IBFT from MUHAMMAD BILAL IBAN ****5376,999,income,raast_incoming,Askari Bank,Income
+5/26/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,2500,expense,raast_outgoing,Askari Bank,Transfers
+5/26/2025,181912 200110 Cash Withdrawal at ATM-RWP. KASHMIR ROAD RAWALPINDI PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+5/26/2025,181912 200110 ATM Switch Charges,26.57,expense,bank_fee,Askari Bank,Fees & Charges
+5/26/2025,182488 200211 Cash Withdrawal at ATM-RWP. KASHMIR ROAD RAWALPINDI PK,1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+5/26/2025,182488 200211 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+5/26/2025,Raast IBFT to HARIS RAZA IBAN ****2207,1800,expense,raast_outgoing,Askari Bank,Transfers
+5/27/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,434,expense,raast_outgoing,Askari Bank,Transfers
+5/30/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,4000,income,raast_incoming,Askari Bank,Income
+5/30/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,4000,expense,raast_outgoing,Askari Bank,Transfers
+5/30/2025,971630 170356 1LINK MUHAMMAD BILAL ****3047,3000,income,1link_transfer,Askari Bank,Income
+5/30/2025,023668 170548 1LINK MUHAMMAD BILAL ****3047,500,income,1link_transfer,Askari Bank,Income
+5/30/2025,223033 170616 Cash Withdrawal at ATM-B-17 ISLAMABAD ISLAMABAD PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+5/30/2025,223033 170616 ATM Switch Charges,26.57,expense,bank_fee,Askari Bank,Fees & Charges
+5/30/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,470,expense,raast_outgoing,Askari Bank,Transfers
+6/3/2025,675349 004033 1LINK MUHAMMAD BILAL ****5376,23000,income,1link_transfer,Askari Bank,Income
+6/5/2025,EB841189530 UBL Raast IBFT from MUHAMMAD ZUBAIR IBAN ****5886,7000,income,raast_incoming,Askari Bank,Income
+6/10/2025,038420 002809 VISA Local POS Purchase at THE COFEE CLUB Mardan PK,900,expense,card_purchase,Askari Bank,Food & Dining
+6/10/2025,711083 214205 Cash Withdrawal at ATM-NOWSHERA ROAD MARDAN PK,2000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+6/10/2025,711083 214205 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+6/10/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,80,expense,raast_outgoing,Askari Bank,Transfers
+6/10/2025,908280 122006 1LINK MUHAMMAD BILAL ****5376,5000,income,1link_transfer,Askari Bank,Income
+6/11/2025,301377 143053 Mobile App MUHAMMAD BILAL ****3047,2000,expense,mobile_app_transfer,Askari Bank,Transfers
+6/11/2025,Raast IBFT to HAMZA RAHIM IBAN ****0085,1200,expense,raast_outgoing,Askari Bank,Transfers
+6/12/2025,Raast IBFT to QAIM KHATOON IBAN ****5727,100,expense,raast_outgoing,Askari Bank,Transfers
+6/14/2025,498508 194211 VISA Local POS Purchase at ATTOCK PESHAWAR PK,7698.63,expense,card_purchase,Askari Bank,Fuel
+6/16/2025,Raast IBFT to FAWAD ABBASI IBAN ****5662,140,expense,raast_outgoing,Askari Bank,Transfers
+6/16/2025,911834 014724 1LINK AYESHA ****5820,4000,income,1link_transfer,Askari Bank,Income
+6/16/2025,129053 231534 VISA Local POS Purchase at AL WAHID FILLING STATION-ISLAMABAD PK,3000,expense,card_purchase,Askari Bank,Fuel
+6/16/2025,239760 171341 VISA Local POS Purchase at MUSA MART ISLAMABAD PK,500,expense,card_purchase,Askari Bank,Groceries
+6/19/2025,790834 171138 Cash Withdrawal at ATM-PAK AUSTRIA HARIPUR PK,2000,expense,atm_cash_withdrawal,Askari Bank,Education
+6/19/2025,790834 171138 ATM Switch Charges,26.57,expense,bank_fee,Askari Bank,Fees & Charges
+6/19/2025,054682 135828 VISA Local POS Purchase at SAFA CAFE ISLAMABAD PK,1208,expense,card_purchase,Askari Bank,Food & Dining
+6/19/2025,077557 140048 VISA Local POS Purchase at SAFA CAFE ISLAMABAD PK,211,expense,card_purchase,Askari Bank,Food & Dining
+6/20/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,8000,expense,raast_outgoing,Askari Bank,Transfers
+6/20/2025,272281 172606 VISA Local POS Purchase at SAFA CAFE ISLAMABAD PK,421,expense,card_purchase,Askari Bank,Food & Dining
+6/23/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,3230,expense,raast_outgoing,Askari Bank,Transfers
+6/23/2025,9999 Others Raast IBFT from AYESHA IBAN ****0885,100,income,raast_incoming,Askari Bank,Income
+6/23/2025,172200 174546 VISA Local POS Purchase at SAFA CAFE ISLAMABAD PK,211,expense,card_purchase,Askari Bank,Food & Dining
+6/23/2025,Raast IBFT to AYESHA IBAN ****0885,100,expense,raast_outgoing,Askari Bank,Transfers
+6/23/2025,676052 144612 Cash Withdrawal at ATM-MPCHS B17 ISLAMABAD PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+6/23/2025,201246 183157 1LINK MUHAMMAD BILAL ****5376,7000,income,1link_transfer,Askari Bank,Income
+6/23/2025,033613 165016 VISA Local POS Purchase at SAFA CAFE ISLAMABAD PK,211,expense,card_purchase,Askari Bank,Food & Dining
+6/24/2025,979354 212259 Cash Withdrawal at ATM-PAR HOTI SUB BR MARDAN PK,1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+6/25/2025,140896 191736 VISA Local POS Purchase at HUNGER HUB SMC PRIVATE Mardan PK,1999,expense,card_purchase,Askari Bank,Food & Dining
+6/26/2025,117939 105955 Cash Withdrawal at ATM-IB MUQAM CHOWK PESHAWAR PK,1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+6/26/2025,117939 105955 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+6/30/2025,901993 201206 Cash Withdrawal at ATM-B-17 MULTI GARDEN ISLAMABAD PK,1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+6/30/2025,901993 201206 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+6/30/2025,906525 201543 Cash Withdrawal at ATM-B-17 MULTI GARDEN ISLAMABAD PK,500,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+6/30/2025,906525 201543 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+6/30/2025,607856 203926 VISA Local POS Purchase at SHOPIX CASH & CARRY ISLAMABAD PK,240,expense,card_purchase,Askari Bank,Groceries
+6/30/2025,276146 142729 Mobile App Askari Bank Ltd TARIQ HUSSAIN ****0937,3000,income,mobile_app_transfer,Askari Bank,Income
+6/30/2025,918920 150326 Cash Withdrawal at ATM-MPCHS B17 ISLAMABAD PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+7/2/2025,212113 021230 Mobile App Askari Bank Ltd TARIQ HUSSAIN ****0937,2500,income,mobile_app_transfer,Askari Bank,Income
+7/2/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,415,income,raast_incoming,Askari Bank,Income
+7/2/2025,0016 Raast IBFT from MUHAMMAD BILAL IBAN ****5376,1000,income,raast_incoming,Askari Bank,Income
+7/2/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,100,expense,raast_outgoing,Askari Bank,Transfers
+7/2/2025,"183011 073759 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",2000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+7/2/2025,183011 073759 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+7/2/2025,"183011 073759 RVR Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",2000,income,reversal,Askari Bank,Refund/Reversal
+7/2/2025,183011 073759 RVR ATM Switch Charges,35,income,reversal,Askari Bank,Fees & Charges
+7/2/2025,Raast IBFT to ABDULLAH NOOR IBAN ****5308,100,expense,raast_outgoing,Askari Bank,Transfers
+7/2/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,200,expense,raast_outgoing,Askari Bank,Transfers
+7/3/2025,425409 155116 VISA Local POS Purchase at SHOPIX CASH & CARRY ISLAMABAD PK,170,expense,card_purchase,Askari Bank,Groceries
+7/4/2025,238583 231050 VISA Local POS Purchase at BROADWAY PIZZA ISLAMABAD PK,1149,expense,card_purchase,Askari Bank,Food & Dining
+7/4/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,70,expense,raast_outgoing,Askari Bank,Transfers
+7/4/2025,"332716 224049 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",500,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+7/4/2025,332716 224049 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+7/7/2025,153083 222129 Cash Withdrawal at ATM-F-7 MARKAZ ISLAMABAD ISLAMABAD PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+7/7/2025,153083 222129 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+7/7/2025,Raast IBFT to WAQAR HUSSAIN IBAN ****7505,2000,expense,raast_outgoing,Askari Bank,Transfers
+7/7/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,605,expense,raast_outgoing,Askari Bank,Transfers
+7/7/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD ZUBAIR IBAN ****8278,1100,income,raast_incoming,Askari Bank,Income
+7/7/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD ALI KHATTAK IBAN ****4639,500,income,raast_incoming,Askari Bank,Income
+7/7/2025,Raast IBFT to MUHAMMAD ALI KHATTAK IBAN ****4639,500,expense,raast_outgoing,Askari Bank,Transfers
+7/7/2025,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,1100,expense,raast_outgoing,Askari Bank,Transfers
+7/9/2025,206961 180255 1LINK MUHAMMAD BILAL ****5376,10000,income,1link_transfer,Askari Bank,Income
+7/9/2025,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,7960,expense,raast_outgoing,Askari Bank,Transfers
+7/10/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,30,expense,raast_outgoing,Askari Bank,Transfers
+7/11/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,180,expense,raast_outgoing,Askari Bank,Transfers
+7/14/2025,Raast IBFT to MUHAMMAD NOMAN NAVEED IBAN ****4845,250,expense,raast_outgoing,Askari Bank,Transfers
+7/14/2025,254009 012559 Mobile App MUHAMMAD NAVEED ****0015,160,expense,mobile_app_transfer,Askari Bank,Transfers
+7/14/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,100,expense,raast_outgoing,Askari Bank,Transfers
+7/14/2025,Raast IBFT to ARIF AHMED IBAN ****3239,100,expense,raast_outgoing,Askari Bank,Transfers
+7/14/2025,101321 072858 VISA Local POS Purchase at SHOPIX CASH & CARRY ISLAMABAD PK,120,expense,card_purchase,Askari Bank,Groceries
+7/14/2025,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,360,expense,raast_outgoing,Askari Bank,Transfers
+7/14/2025,Raast IBFT to UMAR RAFEEQ KHATTAK IBAN ****4349,400,expense,raast_outgoing,Askari Bank,Transfers
+7/14/2025,Raast IBFT to UMAR RAFEEQ KHATTAK IBAN ****4349,400,income,raast_outgoing,Askari Bank,Income
+7/14/2025,Raast IBFT to UMAR RAFEEQ KHATTAK IBAN ****4349,400,expense,raast_outgoing,Askari Bank,Transfers
+7/14/2025,Raast IBFT to UMAR RAFEEQ KHATTAK IBAN ****4349,400,income,raast_outgoing,Askari Bank,Income
+7/14/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,400,expense,raast_outgoing,Askari Bank,Transfers
+7/14/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,400,income,raast_outgoing,Askari Bank,Income
+7/14/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,350,expense,raast_outgoing,Askari Bank,Transfers
+7/14/2025,371734 171710 VISA Local POS Purchase at SHOPIX CASH & CARRY ISLAMABAD PK,120,expense,card_purchase,Askari Bank,Groceries
+7/14/2025,373114 171837 VISA Local POS Purchase at SHOPIX CASH & CARRY ISLAMABAD PK,100,expense,card_purchase,Askari Bank,Groceries
+7/15/2025,164493 062635 1LINK MUHAMMAD BILAL ****5376,3000,income,1link_transfer,Askari Bank,Income
+7/15/2025,"513886 064428 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+7/15/2025,513886 064428 ATM Switch Charges,23.44,expense,bank_fee,Askari Bank,Fees & Charges
+7/18/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,150,expense,raast_outgoing,Askari Bank,Transfers
+7/21/2025,552987 190319 1LINK MUHAMMAD BILAL ****5376,3500,income,1link_transfer,Askari Bank,Income
+7/21/2025,718795 191416 Cash Withdrawal at ATM-PAR HOTI SUB BR MARDAN PK,3500,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+8/18/2025,Raast P2P Paymen Raast IBFT from YAHYA KHAN IBAN ****1699,550,income,raast_incoming,Askari Bank,Income
+8/18/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,300,expense,raast_outgoing,Askari Bank,Transfers
+8/18/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,120,expense,raast_outgoing,Askari Bank,Transfers
+8/18/2025,Raast P2P Paymen Raast IBFT from MUMTAZ KHAN IBAN ****0175,49000,income,raast_incoming,Askari Bank,Income
+8/18/2025,689763 141835 1LINK SAJJAD HUSSAIN ****5873,6000,income,1link_transfer,Askari Bank,Income
+8/18/2025,272010 152745 Mobile App Askari Bank Ltd IQRA UNIVERSITY COLLECTION A\C ****0822,51800,expense,mobile_app_transfer,Askari Bank,Education
+8/18/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+8/19/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,100,expense,raast_outgoing,Askari Bank,Transfers
+8/19/2025,792507 215143 1LINK MUHAMMAD BILAL ****5376,20000,income,1link_transfer,Askari Bank,Income
+8/20/2025,185122 131806 Mobile App MUHAMMAD ZUBAIR ****3651,2000,expense,mobile_app_transfer,Askari Bank,Transfers
+8/21/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,100,expense,raast_outgoing,Askari Bank,Transfers
+8/29/2025,"071947 183627 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",2000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+8/29/2025,071947 183627 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+9/3/2025,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,1152,income,raast_incoming,Askari Bank,Income
+9/3/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,100,expense,raast_outgoing,Askari Bank,Transfers
+9/8/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,120,expense,raast_outgoing,Askari Bank,Transfers
+9/8/2025,598097 161239 VISA Local POS Purchase at CHEEZIOUS MARDAN PK,3466,expense,card_purchase,Askari Bank,Food & Dining
+9/8/2025,Raast IBFT to SALMAN KHAN IBAN ****0358,2500,expense,raast_outgoing,Askari Bank,Transfers
+9/8/2025,617871 184950 Cash Withdrawal at ATM-IBG PAR HOTI MARDAN MARDAN PK,2000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+9/8/2025,617871 184950 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+9/8/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,30,expense,raast_outgoing,Askari Bank,Transfers
+9/8/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+9/9/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+9/9/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,3000,expense,raast_outgoing,Askari Bank,Transfers
+9/10/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,160,expense,raast_outgoing,Askari Bank,Transfers
+9/10/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,20,expense,raast_outgoing,Askari Bank,Transfers
+9/11/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,180,expense,raast_outgoing,Askari Bank,Transfers
+9/12/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,1000,expense,raast_outgoing,Askari Bank,Transfers
+9/12/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,180,expense,raast_outgoing,Askari Bank,Transfers
+9/12/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,30,expense,raast_outgoing,Askari Bank,Transfers
+9/13/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,150,expense,raast_outgoing,Askari Bank,Transfers
+9/13/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+9/15/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,130,expense,raast_outgoing,Askari Bank,Transfers
+9/15/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****9866,110,expense,raast_outgoing,Askari Bank,Transfers
+9/15/2025,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,130,expense,raast_outgoing,Askari Bank,Transfers
+9/15/2025,Raast IBFT to MUHAMMAD ALI KHATTAK IBAN ****4639,600,expense,raast_outgoing,Askari Bank,Transfers
+9/15/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,150,expense,raast_outgoing,Askari Bank,Transfers
+9/16/2025,Raast IBFT to AYESHA AYESHA IBAN ****2309,3000,expense,raast_outgoing,Askari Bank,Transfers
+9/16/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,170,expense,raast_outgoing,Askari Bank,Transfers
+9/17/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,190,expense,raast_outgoing,Askari Bank,Transfers
+9/18/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,170,expense,raast_outgoing,Askari Bank,Transfers
+9/19/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+9/19/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,30,expense,raast_outgoing,Askari Bank,Transfers
+9/22/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+9/22/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,210,expense,raast_outgoing,Askari Bank,Transfers
+9/23/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,240,expense,raast_outgoing,Askari Bank,Transfers
+9/24/2025,771336 133952 1LINK MUHAMMAD BILAL ****5376,25000,income,1link_transfer,Askari Bank,Income
+9/24/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+9/25/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,210,expense,raast_outgoing,Askari Bank,Transfers
+9/26/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD BILAL IBAN ****9866,3000,income,raast_incoming,Askari Bank,Income
+9/26/2025,712702 221343 Cash Withdrawal at ATM-PAR HOTI SUB BR MARDAN PK,2000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+9/29/2025,Raast P2P Paymen Raast IBFT from YAHYA KHAN IBAN ****0012,2750,income,raast_incoming,Askari Bank,Income
+9/29/2025,158146 183104 VISA Local POS Purchase at CHEEZIOUS MARDAN PK,2650,expense,card_purchase,Askari Bank,Food & Dining
+9/29/2025,Raast P2P Paymen Raast IBFT from YAHYA KHAN IBAN ****1699,500,income,raast_incoming,Askari Bank,Income
+9/29/2025,516347 163321 VISA Local POS Purchase at YOUSAF SONS Mardan PK,5420,expense,card_purchase,Askari Bank,Shopping
+9/29/2025,718113 164714 VISA Local POS Purchase at CHEEZIOUS MARDAN PK,636,expense,card_purchase,Askari Bank,Food & Dining
+9/30/2025,Raast IBFT to GHULAM QAISAR IBAN ****3863,1200,expense,raast_outgoing,Askari Bank,Transfers
+9/30/2025,Raast IBFT to HAROON HAROON IBAN ****4754,100,expense,raast_outgoing,Askari Bank,Transfers
+10/1/2025,Raast IBFT to BABAR ALI IBAN ****5338,1130,expense,raast_outgoing,Askari Bank,Transfers
+10/1/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,400,expense,raast_outgoing,Askari Bank,Transfers
+10/3/2025,Raast IBFT to SHERAZ SHERAZ IBAN ****8528,300,expense,raast_outgoing,Askari Bank,Transfers
+10/4/2025,Raast IBFT to SHAHZAD KHAN IBAN ****4096,230,expense,raast_outgoing,Askari Bank,Transfers
+10/4/2025,Account Class Migration,18074.25,expense,account_migration,Askari Bank,Bank Adjustment
+10/4/2025,Account Class Migration,18074.25,income,account_migration,Askari Bank,Bank Adjustment
+10/6/2025,Raast IBFT to FAISAL WALEED IBAN ****1318,500,expense,raast_outgoing,Askari Bank,Transfers
+10/6/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+10/6/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+10/7/2025,"425076 075851 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",2000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+10/7/2025,425076 075851 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+10/8/2025,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,1096,expense,raast_outgoing,Askari Bank,Transfers
+10/10/2025,681719 190452 VISA Local POS Purchase at SHOPIX CASH AND CARRY Islamabad PK,120,expense,card_purchase,Askari Bank,Groceries
+10/10/2025,Raast IBFT to Sajjad Hussain IBAN ****2518,500,expense,raast_outgoing,Askari Bank,Transfers
+10/10/2025,Raast IBFT to SAFWAAN ALI IBAN ****0596,350,expense,raast_outgoing,Askari Bank,Transfers
+10/13/2025,Raast IBFT to AMIR IQBAL IBAN ****3642,710,expense,raast_outgoing,Askari Bank,Transfers
+10/13/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+10/13/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,20,expense,raast_outgoing,Askari Bank,Transfers
+10/13/2025,Raast IBFT to MUHAMMAD SYED IBAN ****8052,100,expense,raast_outgoing,Askari Bank,Transfers
+10/13/2025,"016409 065204 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",2000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+10/13/2025,016409 065204 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+10/14/2025,Raast IBFT to HAMZA RAHIM IBAN ****0085,130,expense,raast_outgoing,Askari Bank,Transfers
+10/20/2025,Raast IBFT to Ghulam Mustafa IBAN ****6684,400,expense,raast_outgoing,Askari Bank,Transfers
+10/20/2025,EB954832280 UBL Raast IBFT from MUHAMMAD ZUBAIR IBAN ****5886,30000,income,raast_incoming,Askari Bank,Income
+10/21/2025,Raast IBFT to ELITE TRANSPORT SYSTEM IBAN ****3896,7000,expense,raast_outgoing,Askari Bank,Transport
+10/23/2025,Raast IBFT to SYED MUHAMMAD SHAHID ZAIDI IBAN ****2474,500,expense,raast_outgoing,Askari Bank,Transfers
+10/23/2025,000574 123252 Cash Withdrawal at ATM-AYUB PARK RAWALPINDI PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+10/23/2025,000574 123252 ATM Switch Charges,39.67,expense,bank_fee,Askari Bank,Fees & Charges
+10/23/2025,599137 145907 Mobile App SHIEKH MUHAMMAD SHAYAN ****5848,6000,expense,mobile_app_transfer,Askari Bank,Transfers
+10/23/2025,Raast IBFT to SYED HASSAN ALI IBAN ****5606,2800,expense,raast_outgoing,Askari Bank,Transfers
+10/27/2025,Raast IBFT to Sajjad Hussain IBAN ****2518,1900,expense,raast_outgoing,Askari Bank,Transfers
+10/27/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,40,expense,raast_outgoing,Askari Bank,Transfers
+10/28/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,170,expense,raast_outgoing,Askari Bank,Transfers
+10/29/2025,Raast IBFT to MAHIM ILYAS IBAN ****7264,560,expense,raast_outgoing,Askari Bank,Transfers
+10/29/2025,Raast IBFT to MEHMOODUL HASAN IBAN ****8728,1800,expense,raast_outgoing,Askari Bank,Transfers
+10/29/2025,Raast IBFT to HANZALA MASOOD IBAN ****9525,3800,expense,raast_outgoing,Askari Bank,Transfers
+10/29/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,50,expense,raast_outgoing,Askari Bank,Transfers
+10/30/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,300,expense,raast_outgoing,Askari Bank,Transfers
+10/30/2025,552755 095549 Mobile App Askari Bank Ltd MUHAMMAD MOOSA ****0741,280,expense,mobile_app_transfer,Askari Bank,Transfers
+10/30/2025,Raast IBFT to MUHAMMAD YAR IBAN ****5275,50,expense,raast_outgoing,Askari Bank,Transfers
+10/31/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+10/31/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,270,expense,raast_outgoing,Askari Bank,Transfers
+11/3/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+11/3/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,298,expense,raast_outgoing,Askari Bank,Transfers
+11/3/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,20,expense,raast_outgoing,Askari Bank,Transfers
+11/3/2025,Raast IBFT to TASHFEEN ZAHID IBAN ****2237,180,expense,raast_outgoing,Askari Bank,Transfers
+11/3/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+11/4/2025,Raast IBFT to MUHAMMAD MUSA IBAN ****1381,900,expense,raast_outgoing,Askari Bank,Transfers
+11/4/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,160,expense,raast_outgoing,Askari Bank,Transfers
+11/5/2025,Raast IBFT to MUHAMMAD MUSA IBAN ****1381,280,expense,raast_outgoing,Askari Bank,Transfers
+11/5/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,30,expense,raast_outgoing,Askari Bank,Transfers
+11/7/2025,Raast IBFT to FAIZAN MUSTAFA IBAN ****8486,780,expense,raast_outgoing,Askari Bank,Transfers
+11/7/2025,489077 172224 Cash Withdrawal at ATM-TEXILLA TEXILLA PK,1500,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+11/7/2025,489077 172224 ATM Switch Charges,39.67,expense,bank_fee,Askari Bank,Fees & Charges
+11/10/2025,103180 185505 Cash Withdrawal at ATM-BANK ROAD MARDAN PK,1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+11/10/2025,103180 185505 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+11/10/2025,Raast IBFT to SHERAZ SHERAZ IBAN ****8528,130,expense,raast_outgoing,Askari Bank,Transfers
+11/10/2025,Raast P2P Paymen Raast IBFT from YAHYA KHAN IBAN ****0012,4500,income,raast_incoming,Askari Bank,Income
+11/10/2025,Raast IBFT to Sajjad Hussain IBAN ****2518,4500,expense,raast_outgoing,Askari Bank,Transfers
+11/11/2025,Raast IBFT to MEHRAN HASSAN IBAN ****4156,1050,expense,raast_outgoing,Askari Bank,Transfers
+11/11/2025,Raast IBFT to MUHAMMAD MUSA IBAN ****1381,280,expense,raast_outgoing,Askari Bank,Transfers
+11/12/2025,903219 181520 1LINK MUMTAZ KHAN ****2195,20000,income,1link_transfer,Askari Bank,Income
+11/12/2025,Raast IBFT to ELITE TRANSPORT SYSTEM IBAN ****3896,12000,expense,raast_outgoing,Askari Bank,Transport
+11/13/2025,Raast IBFT to HAMZA IBAN ****6191,215,expense,raast_outgoing,Askari Bank,Transfers
+11/13/2025,Raast IBFT to HABIBUR REHMAN IBAN ****4091,2500,expense,raast_outgoing,Askari Bank,Transfers
+11/13/2025,546740 125455 Mobile App Askari Bank Ltd MUHAMMAD MOOSA ****0741,1000,income,mobile_app_transfer,Askari Bank,Income
+11/13/2025,352446 075608 VISA Local POS Purchase at CHEEZIOUS ISLAMABAD PK,5927,expense,card_purchase,Askari Bank,Food & Dining
+11/13/2025,Raast IBFT to SAMI ULLAH IBAN ****6124,220,expense,raast_outgoing,Askari Bank,Transfers
+11/13/2025,Raast P2P Paymen Raast IBFT from ALISHBA QADEER IBAN ****9989,600,income,raast_incoming,Askari Bank,Income
+11/13/2025,EB979090734 UBL Raast IBFT from SHEHZAD MUNIR IBAN ****1953,14000,income,raast_incoming,Askari Bank,Income
+11/13/2025,Raast P2P Paymen Raast IBFT from ROZINA SALEEM IBAN ****4136,600,income,raast_incoming,Askari Bank,Income
+11/13/2025,Raast P2P Paymen Raast IBFT from ROZINA SALEEM IBAN ****4136,510,income,raast_incoming,Askari Bank,Income
+11/13/2025,Others Raast IBFT from MAHIM ILYAS IBAN ****7264,593,income,raast_incoming,Askari Bank,Income
+11/13/2025,Raast IBFT to MUNIR AHMED IBAN ****9274,14000,expense,raast_outgoing,Askari Bank,Transfers
+11/13/2025,Raast P2P Paymen Raast IBFT from ROZINA SALEEM IBAN ****4136,90,income,raast_incoming,Askari Bank,Income
+11/13/2025,200355 164744 1LINK KHADIJA BATOOL ****2227,600,income,1link_transfer,Askari Bank,Income
+11/13/2025,726965 165302 1LINK KHADIJA BATOOL ****2227,100,income,1link_transfer,Askari Bank,Income
+11/13/2025,Raast IBFT to MUHAMMAD MUSA IBAN ****1381,400,expense,raast_outgoing,Askari Bank,Transfers
+11/13/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+11/14/2025,Raast IBFT to SAFEER AHMED IBAN ****8116,50,expense,raast_outgoing,Askari Bank,Transfers
+11/14/2025,Others Raast IBFT from MAHIM ILYAS IBAN ****7264,500,income,raast_incoming,Askari Bank,Income
+11/14/2025,Raast IBFT to MUHAMMAD NAVEED IBAN ****0015,30,expense,raast_outgoing,Askari Bank,Transfers
+11/15/2025,Raast IBFT to ALTAF HUSSAIN IBAN ****9421,130,expense,raast_outgoing,Askari Bank,Transfers
+11/15/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,130,expense,raast_outgoing,Askari Bank,Transfers
+11/17/2025,raast payment - Raast IBFT from SADIA RAMZAN IBAN ****6163,2000,income,raast_incoming,Askari Bank,Income
+11/17/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,300,expense,raast_outgoing,Askari Bank,Transfers
+11/17/2025,376481 183705 1LINK HAMZA RAHIM ****5424,4000,income,1link_transfer,Askari Bank,Income
+11/17/2025,582486 134937 VISA Local POS Purchase at YUMTO THE HOUSE OF ARABICISLAMABAD PK,4370,expense,card_purchase,Askari Bank,Food & Dining
+11/17/2025,627523 152529 VISA Local POS Purchase at LAYERS BAKESHOP ISLAMABAD PK,1201,expense,card_purchase,Askari Bank,Food & Dining
+11/17/2025,803853 174552 VISA Local POS Purchase at SHELL ISLAMABAD PK,2000,expense,card_purchase,Askari Bank,Fuel
+11/18/2025,Raast IBFT to HAMZA RAHIM IBAN ****0085,100,expense,raast_outgoing,Askari Bank,Transfers
+11/18/2025,Raast IBFT to FAIZAN MUSTAFA IBAN ****8486,400,expense,raast_outgoing,Askari Bank,Transfers
+11/18/2025,Raast IBFT to FAIZAN MUSTAFA IBAN ****8486,400,income,raast_outgoing,Askari Bank,Income
+11/18/2025,Raast IBFT to FAIZAN MUSTAFA IBAN ****8486,400,expense,raast_outgoing,Askari Bank,Transfers
+11/18/2025,Raast IBFT to FAIZAN MUSTAFA IBAN ****8486,400,income,raast_outgoing,Askari Bank,Income
+11/18/2025,Raast IBFT to FAIZAN MUSTAFFA IBAN ****8100,400,expense,raast_outgoing,Askari Bank,Transfers
+11/18/2025,EB983487445 UBL Raast IBFT from MUHAMMAD ZUBAIR IBAN ****5886,5000,income,raast_incoming,Askari Bank,Income
+11/18/2025,Raast IBFT to ASIM RASHEED IBAN ****1233,380,expense,raast_outgoing,Askari Bank,Transfers
+11/18/2025,911529 095002 VISA Local POS Purchase at CHEEZIOUS NORTH ISLAMABAD PK,3328,expense,card_purchase,Askari Bank,Food & Dining
+11/18/2025,Raast IBFT to MADAD KHAN IBAN ****5716,250,expense,raast_outgoing,Askari Bank,Transfers
+11/18/2025,975120 130208 VISA Local POS Purchase at SHOPIX CASH AND CARRY Islamabad PK,120,expense,card_purchase,Askari Bank,Groceries
+11/19/2025,Raast IBFT to MUHAMMAD YAR IBAN ****5275,50,expense,raast_outgoing,Askari Bank,Transfers
+11/19/2025,raast payment - Raast IBFT from SAJJAD HUSSAIN IBAN ****3551,26000,income,raast_incoming,Askari Bank,Income
+11/19/2025,raast payment - Raast IBFT from SAJJAD HUSSAIN IBAN ****3551,1000,income,raast_incoming,Askari Bank,Income
+11/19/2025,740640 135447 VISA Local POS Purchase at One Stop Grocery (PAYSA) Islamabad PK,26501,expense,card_purchase,Askari Bank,Groceries
+11/20/2025,raast payment - Raast IBFT from SAJJAD HUSSAIN IBAN ****3551,30000,income,raast_incoming,Askari Bank,Income
+11/20/2025,Raast IBFT to SALMAN KHAN IBAN ****1617,150,expense,raast_outgoing,Askari Bank,Transfers
+11/20/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,40,expense,raast_outgoing,Askari Bank,Transfers
+11/20/2025,Raast IBFT to Sajjad Hussain IBAN ****2518,500,expense,raast_outgoing,Askari Bank,Transfers
+11/20/2025,Raast IBFT to HAMZA RAHIM IBAN ****5424,4400,expense,raast_outgoing,Askari Bank,Transfers
+11/20/2025,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,5000,expense,raast_outgoing,Askari Bank,Transfers
+11/21/2025,821730 161721 Cash Withdrawal at ATM-B-17 ISLAMABAD ISLAMABAD PK,1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+11/21/2025,821730 161721 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,expense,raast_outgoing,Askari Bank,Transfers
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,income,raast_outgoing,Askari Bank,Income
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,680,expense,raast_outgoing,Askari Bank,Transfers
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,680,income,raast_outgoing,Askari Bank,Income
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,expense,raast_outgoing,Askari Bank,Transfers
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,income,raast_outgoing,Askari Bank,Income
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,expense,raast_outgoing,Askari Bank,Transfers
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,income,raast_outgoing,Askari Bank,Income
+11/22/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,700,expense,raast_outgoing,Askari Bank,Transfers
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,expense,raast_outgoing,Askari Bank,Transfers
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,income,raast_outgoing,Askari Bank,Income
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,680,expense,raast_outgoing,Askari Bank,Transfers
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,680,income,raast_outgoing,Askari Bank,Income
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,expense,raast_outgoing,Askari Bank,Transfers
+11/22/2025,Raast IBFT to IMRAN Allah IBAN ****3019,700,income,raast_outgoing,Askari Bank,Income
+11/22/2025,Raast IBFT to MUHAMMAD SHOAIB IBAN ****4058,700,expense,raast_outgoing,Askari Bank,Transfers
+11/24/2025,Raast IBFT to ZAHEER JAVED IBAN ****0501,800,expense,raast_outgoing,Askari Bank,Transfers
+11/24/2025,021849 133538 VISA Local POS Purchase at CHEEZIOUS ISLAMABAD PK,2814,expense,card_purchase,Askari Bank,Food & Dining
+11/24/2025,284820 135415 VISA Local POS Purchase at MINISO ISLAMABAD PK,7980,expense,card_purchase,Askari Bank,Shopping
+11/24/2025,290598 135442 VISA Local POS Purchase at MINISO ISLAMABAD PK,7980,expense,card_purchase,Askari Bank,Shopping
+11/24/2025,284820 135415 RVR VISA Local POS Purchase at MINISO ISLAMABAD PK,7980,income,reversal,Askari Bank,Refund/Reversal
+11/24/2025,Raast IBFT to MUHAMMAD USMAN ABBASI IBAN ****1753,750,expense,raast_outgoing,Askari Bank,Transfers
+11/24/2025,Raast IBFT to ARIF MEHMOOD IBAN ****3103,780,expense,raast_outgoing,Askari Bank,Transfers
+11/24/2025,Raast IBFT to MUHAMMAD SALEEM IBAN ****4512,1350,expense,raast_outgoing,Askari Bank,Transfers
+11/24/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,70,expense,raast_outgoing,Askari Bank,Transfers
+11/24/2025,Raast IBFT to MUHAMMAD SHEHZAD IBAN ****5037,600,expense,raast_outgoing,Askari Bank,Transfers
+11/26/2025,Raast IBFT to NASEER HUSSAIN IBAN ****4713,100,expense,raast_outgoing,Askari Bank,Transfers
+11/26/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,170,expense,raast_outgoing,Askari Bank,Transfers
+11/27/2025,Raast IBFT to MUHAMMAD YAR IBAN ****5275,100,expense,raast_outgoing,Askari Bank,Transfers
+11/27/2025,Raast IBFT to MUHAMMAD MUSA IBAN ****1381,750,expense,raast_outgoing,Askari Bank,Transfers
+11/27/2025,421693 221557 1LINK ****7071,53000,income,1link_transfer,Askari Bank,Income
+11/28/2025,073154 120724 Mobile App Askari Bank Ltd IQRA UNIVERSITY COLLECTION A\C ****0822,51500,expense,mobile_app_transfer,Askari Bank,Education
+11/28/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,140,expense,raast_outgoing,Askari Bank,Transfers
+11/29/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,140,expense,raast_outgoing,Askari Bank,Transfers
+11/29/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+11/29/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,420,expense,raast_outgoing,Askari Bank,Transfers
+12/1/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,140,expense,raast_outgoing,Askari Bank,Transfers
+12/1/2025,645001 191917 VISA Local POS Purchase at APPLE.COM/BILL ITUNES.COM IE,830,expense,card_purchase,Askari Bank,Subscriptions
+12/1/2025,645001 191917 Switch Fee/Receipt Printing Charges,29.05,expense,bank_fee,Askari Bank,Fees & Charges
+12/1/2025,Raast IBFT to Multi Grafix IBAN ****9550,160,expense,raast_outgoing,Askari Bank,Transfers
+12/1/2025,Raast IBFT to FAIZAN MUSTAFA IBAN ****8486,700,expense,raast_outgoing,Askari Bank,Transfers
+12/1/2025,Raast IBFT to MUHAMMAD YAR IBAN ****5275,200,expense,raast_outgoing,Askari Bank,Transfers
+12/1/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,180,expense,raast_outgoing,Askari Bank,Transfers
+12/1/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,180,income,raast_outgoing,Askari Bank,Income
+12/1/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,180,expense,raast_outgoing,Askari Bank,Transfers
+12/2/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+12/3/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,300,expense,raast_outgoing,Askari Bank,Transfers
+12/3/2025,Raast IBFT to MUHAMMAD YAR IBAN ****5275,300,expense,raast_outgoing,Askari Bank,Transfers
+12/4/2025,Raast IBFT to MAHIM ILYAS IBAN ****5500,30,expense,raast_outgoing,Askari Bank,Transfers
+12/4/2025,Raast IBFT to MAHIM ILYAS IBAN ****5500,20,expense,raast_outgoing,Askari Bank,Transfers
+12/4/2025,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,500,expense,raast_outgoing,Askari Bank,Transfers
+12/4/2025,9999 Others Raast IBFT from MUHAMMAD MOOSA IBAN ****6170,1000,income,raast_incoming,Askari Bank,Income
+12/4/2025,Raast IBFT to KHIZAR ABID IBAN ****5175,700,expense,raast_outgoing,Askari Bank,Transfers
+12/4/2025,090422 160542 VISA Local POS Purchase at SHOPIX CASH AND CARRY Islamabad PK,270,expense,card_purchase,Askari Bank,Groceries
+12/5/2025,519561 113159 1LINK MOHAMMAD MUSA ****6170,2500,income,1link_transfer,Askari Bank,Income
+12/5/2025,004134 150036 Mobile App ****5275,200,expense,mobile_app_transfer,Askari Bank,Transfers
+12/5/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,360,expense,raast_outgoing,Askari Bank,Transfers
+12/5/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,100,expense,raast_outgoing,Askari Bank,Transfers
+12/6/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,610,expense,raast_outgoing,Askari Bank,Transfers
+12/8/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,280,expense,raast_outgoing,Askari Bank,Transfers
+12/8/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,220,expense,raast_outgoing,Askari Bank,Transfers
+12/8/2025,Raast IBFT to FAIZAN MUSTAFA IBAN ****8486,750,expense,raast_outgoing,Askari Bank,Transfers
+12/8/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+12/9/2025,Raast IBFT to MUHAMMAD YAR IBAN ****5275,150,expense,raast_outgoing,Askari Bank,Transfers
+12/9/2025,Raast IBFT to MUHAMMAD TAHIR IBAN ****3683,350,expense,raast_outgoing,Askari Bank,Transfers
+12/9/2025,Raast IBFT to MUHAMMAD MUSA IBAN ****1381,3000,expense,raast_outgoing,Askari Bank,Transfers
+12/9/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,170,expense,raast_outgoing,Askari Bank,Transfers
+12/10/2025,Raast IBFT to RIFAT ALI KHAN IBAN ****5643,120,expense,raast_outgoing,Askari Bank,Transfers
+12/10/2025,Raast P2P Paymen Raast IBFT from MUMTAZ KHAN IBAN ****0175,10000,income,raast_incoming,Askari Bank,Income
+12/10/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,140,expense,raast_outgoing,Askari Bank,Transfers
+12/10/2025,Raast IBFT to MOIZ BUTT IBAN ****3874,500,expense,raast_outgoing,Askari Bank,Transfers
+12/10/2025,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,1100,expense,raast_outgoing,Askari Bank,Transfers
+12/11/2025,Raast P2P Paymen Raast IBFT from MUMTAZ KHAN IBAN ****0175,15000,income,raast_incoming,Askari Bank,Income
+12/11/2025,Raast IBFT to ELITE TRANSPORT SYSTEM IBAN ****3896,12000,expense,raast_outgoing,Askari Bank,Transport
+12/11/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,170,expense,raast_outgoing,Askari Bank,Transfers
+12/12/2025,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,700,income,raast_incoming,Askari Bank,Income
+12/12/2025,"458796 160501 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",1500,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+12/12/2025,458796 160501 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+12/13/2025,Raast IBFT to AYESHA AYESHA IBAN ****2309,1000,expense,raast_outgoing,Askari Bank,Transfers
+12/15/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,140,expense,raast_outgoing,Askari Bank,Transfers
+12/15/2025,Raast IBFT to MUHAMMAD YAR IBAN ****5275,300,expense,raast_outgoing,Askari Bank,Transfers
+12/15/2025,VISA UNSETTLED M REVERSAL VISA POS STAN# 867259 Tran Dtd 02-MAY-2025,710,income,reversal,Askari Bank,Refund/Reversal
+12/16/2025,Raast IBFT to FAIZAN MUSTAFA IBAN ****8486,400,expense,raast_outgoing,Askari Bank,Transfers
+12/16/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,2000,expense,raast_outgoing,Askari Bank,Transfers
+12/16/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,190,expense,raast_outgoing,Askari Bank,Transfers
+12/17/2025,Raast IBFT to NAIK ALAM KHAN IBAN ****0936,280,expense,raast_outgoing,Askari Bank,Transfers
+12/17/2025,030502 141759 1LINK MOHAMMAD MUSA ****6170,2200,income,1link_transfer,Askari Bank,Income
+12/17/2025,837967 091816 VISA Local POS Purchase at CHEEZIOUS ISLAMABAD PK,4840,expense,card_purchase,Askari Bank,Food & Dining
+12/17/2025,834047 142614 1LINK KHADIJA BATOOL ****2227,630,income,1link_transfer,Askari Bank,Income
+12/17/2025,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,1570,expense,raast_outgoing,Askari Bank,Transfers
+12/17/2025,Raast P2P Paymen Raast IBFT from ROZINA SALEEM IBAN ****4136,630,income,raast_incoming,Askari Bank,Income
+12/18/2025,267084 060326 1LINK MUHAMMAD ZUBAIR ****5649,2500,income,1link_transfer,Askari Bank,Income
+12/22/2025,006724 230041 Mobile App ****9515,100,expense,mobile_app_transfer,Askari Bank,Transfers
+12/22/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,300,expense,raast_outgoing,Askari Bank,Transfers
+12/22/2025,899013 154610 Cash Withdrawal at ATM-B-17 ISLAMABAD ISLAMABAD PK,2000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+12/22/2025,899013 154610 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+12/22/2025,Raast P2P Paymen Raast IBFT from MUMTAZ KHAN IBAN ****0175,4000,income,raast_incoming,Askari Bank,Income
+12/22/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,290,expense,raast_outgoing,Askari Bank,Transfers
+12/22/2025,Raast IBFT to GULFAM KHAN IBAN ****2789,900,expense,raast_outgoing,Askari Bank,Transfers
+12/22/2025,9999 Others Raast IBFT from MUHAMMAD MOOSA IBAN ****6170,300,income,raast_incoming,Askari Bank,Income
+12/22/2025,Raast P2P Paymen Raast IBFT from MOIZ BUTT IBAN ****3874,500,income,raast_incoming,Askari Bank,Income
+12/22/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,240,expense,raast_outgoing,Askari Bank,Transfers
+12/23/2025,Raast IBFT to YAHYA KHAN IBAN ****1699,500,expense,raast_outgoing,Askari Bank,Transfers
+12/24/2025,Raast IBFT to AMJAD ALI ABBASI IBAN ****4099,140,expense,raast_outgoing,Askari Bank,Transfers
+12/24/2025,Raast IBFT to SHERAZ SHERAZ IBAN ****8528,250,expense,raast_outgoing,Askari Bank,Transfers
+12/26/2025,Raast IBFT to NOOR UL FAJJAR IBAN ****3571,100,expense,raast_outgoing,Askari Bank,Transfers
+12/26/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,350,expense,raast_outgoing,Askari Bank,Transfers
+12/29/2025,800948 190931 1LINK MUHAMMAD BILAL ****5376,3700,income,1link_transfer,Askari Bank,Income
+12/29/2025,820822 150108 VISA Local POS Purchase at BASHA ISTANBUL Islamabad PK,7235,expense,card_purchase,Askari Bank,Food & Dining
+12/29/2025,Raast P2P Paymen Raast IBFT from MUHAMMAD KASHIF MAQSOOD IBAN ****9515,5000,income,raast_incoming,Askari Bank,Income
+12/29/2025,910976 163421 VISA Local POS Purchase at CHEEZIOUS ISLAMABAD PK,2698,expense,card_purchase,Askari Bank,Food & Dining
+12/29/2025,414789 172146 VISA Local POS Purchase at BUTLERS CHOCOLATE CA ISLAMABAD PK,1471,expense,card_purchase,Askari Bank,Food & Dining
+12/29/2025,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,350,expense,raast_outgoing,Askari Bank,Transfers
+12/29/2025,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,2800,expense,raast_outgoing,Askari Bank,Transfers
+12/30/2025,387704 172904 1LINK MUHAMMAD BILAL ****5376,2800,income,1link_transfer,Askari Bank,Income
+12/30/2025,744394 123047 VISA Local POS Purchase at TOTAL PARCO ISLAMABAD PK,130,expense,card_purchase,Askari Bank,Fuel
+12/31/2025,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,230,expense,raast_outgoing,Askari Bank,Transfers
+12/31/2025,Raast P2P Paymen Raast IBFT from ROZINA SALEEM IBAN ****4136,5000,income,raast_incoming,Askari Bank,Income
+12/31/2025,9999 Others Raast IBFT from MUHAMMAD MOOSA IBAN ****6170,3000,income,raast_incoming,Askari Bank,Income
+12/31/2025,323504 081926 VISA Local POS Purchase at SHALIMAR FILLING STATI ISLAMABAD PK,2000,expense,card_purchase,Askari Bank,Shopping
+12/31/2025,955698 083557 VISA Local POS Purchase at WE PLAY ISLAMABAD PK,5000,expense,card_purchase,Askari Bank,Entertainment
+12/31/2025,Raast IBFT to FAIZAN MUSTAFFA IBAN ****8100,960,expense,raast_outgoing,Askari Bank,Transfers
+12/31/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,170,expense,raast_outgoing,Askari Bank,Transfers
+12/31/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,50,expense,raast_outgoing,Askari Bank,Transfers
+12/31/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,350,expense,raast_outgoing,Askari Bank,Transfers
+12/31/2025,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,300,expense,raast_outgoing,Askari Bank,Transfers
+1/2/2026,Raast IBFT to FAIZAN MUSTAFFA IBAN ****8100,300,expense,raast_outgoing,Askari Bank,Transfers
+1/2/2026,444319 144423 Mobile App Askari Bank Ltd MUHAMMAD MOOSA ****0741,4400,income,mobile_app_transfer,Askari Bank,Income
+1/2/2026,422199 094438 VISA Local POS Purchase at OTTOMAN TURKISH DONER ANDISLAMABAD PK,4353,expense,card_purchase,Askari Bank,Food & Dining
+1/2/2026,Raast IBFT to FAIZAN MUSTAFFA IBAN ****8100,300,expense,raast_outgoing,Askari Bank,Transfers
+1/2/2026,394651 185920 Cash Withdrawal at ATM-B-17 ISLAMABAD ISLAMABAD PK,1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+1/2/2026,394651 185920 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+1/2/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,250,income,raast_incoming,Askari Bank,Income
+1/3/2026,306553 160521 1LINK AYESHA ****5820,14500,income,1link_transfer,Askari Bank,Income
+1/3/2026,928616 161358 Cash Withdrawal at ATM-IBG PAR HOTI MARDAN MARDAN PK,14500,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+1/3/2026,928616 161358 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+1/3/2026,572814 161532 1LINK MUHAMMAD BILAL ****5376,6030,income,1link_transfer,Askari Bank,Income
+1/5/2026,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,6000,expense,raast_outgoing,Askari Bank,Transfers
+1/5/2026,638900 165139 1LINK MUHAMMAD BILAL ****5376,6000,income,1link_transfer,Askari Bank,Income
+1/5/2026,Raast IBFT to MUHAMMAD JALAL IBAN ****9877,6000,expense,raast_outgoing,Askari Bank,Transfers
+1/5/2026,Raast P2P Paymen Raast IBFT from MUMTAZ KHAN IBAN ****0175,15000,income,raast_incoming,Askari Bank,Income
+1/5/2026,Raast IBFT to ELITE TRANSPORT SYSTEM IBAN ****3896,12000,expense,raast_outgoing,Askari Bank,Transport
+1/5/2026,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,3000,expense,raast_outgoing,Askari Bank,Transfers
+1/5/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+1/6/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,700,income,raast_incoming,Askari Bank,Income
+1/6/2026,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,250,expense,raast_outgoing,Askari Bank,Transfers
+1/6/2026,Raast IBFT to FAIZAN MUSTAFFA IBAN ****8100,150,expense,raast_outgoing,Askari Bank,Transfers
+1/7/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,1500,income,raast_incoming,Askari Bank,Income
+1/7/2026,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,800,expense,raast_outgoing,Askari Bank,Transfers
+1/8/2026,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,650,expense,raast_outgoing,Askari Bank,Transfers
+1/8/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,150,expense,raast_outgoing,Askari Bank,Transfers
+1/8/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,20,expense,raast_outgoing,Askari Bank,Transfers
+1/8/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,1500,income,raast_incoming,Askari Bank,Income
+1/9/2026,Raast IBFT to FAIZAN MUSTAFFA IBAN ****8100,200,expense,raast_outgoing,Askari Bank,Transfers
+1/9/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+1/9/2026,Raast IBFT to MUHAMMAD NAVEED IBAN ****0015,150,expense,raast_outgoing,Askari Bank,Transfers
+1/12/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,230,expense,raast_outgoing,Askari Bank,Transfers
+1/12/2026,Raast IBFT to KHIZAR ABID IBAN ****5175,800,expense,raast_outgoing,Askari Bank,Transfers
+1/12/2026,881179 112550 VISA Local POS Purchase at THE PUNJAB MASS TRAN RAWALPINDI PK,30,expense,card_purchase,Askari Bank,Transport
+1/13/2026,315087 113126 Mobile App ****8100,120,expense,mobile_app_transfer,Askari Bank,Transfers
+1/13/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,500,income,raast_incoming,Askari Bank,Income
+1/13/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,500,expense,raast_outgoing,Askari Bank,Transfers
+1/15/2026,EB1044696734 UBL Raast IBFT from SHEHZAD MUNIR IBAN ****1953,330,income,raast_incoming,Askari Bank,Income
+1/19/2026,Raast IBFT to NAIK ALAM KHAN IBAN ****0011,350,expense,raast_outgoing,Askari Bank,Transfers
+1/19/2026,9999 Others Raast IBFT from MUHAMMAD MOOSA IBAN ****6170,1000,income,raast_incoming,Askari Bank,Income
+1/21/2026,Raast IBFT to FAIZAN MUSTAFFA IBAN ****8100,500,expense,raast_outgoing,Askari Bank,Transfers
+1/21/2026,Raast IBFT to NAIK ALAM KHAN IBAN ****0936,350,expense,raast_outgoing,Askari Bank,Transfers
+1/22/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,30,expense,raast_outgoing,Askari Bank,Transfers
+1/22/2026,414618 172258 1LINK MUHAMMAD BILAL ****5376,3000,income,1link_transfer,Askari Bank,Income
+1/22/2026,601603 172247 Cash Withdrawal at ATM-BY PASS ROAD MARDAN MARDAN PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+1/22/2026,601603 172247 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+1/29/2026,Others Raast IBFT from MAHIM ILYAS IBAN ****7264,1500,income,raast_incoming,Askari Bank,Income
+1/29/2026,Raast P2P Paymen Raast IBFT from ROZINA SALEEM IBAN ****4136,3000,income,raast_incoming,Askari Bank,Income
+1/29/2026,9999 Others Raast IBFT from MUHAMMAD MOOSA IBAN ****6170,1500,income,raast_incoming,Askari Bank,Income
+1/29/2026,189542 124758 VISA Local POS Purchase at CHEEZIOUS ISLAMABAD PK,5717,expense,card_purchase,Askari Bank,Food & Dining
+1/29/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,1000,income,raast_incoming,Askari Bank,Income
+1/29/2026,862093 134637 VISA Local POS Purchase at SHELL KOHISTAN PETRO ISLAMABAD PK,1000,expense,card_purchase,Askari Bank,Fuel
+1/30/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,1700,income,raast_incoming,Askari Bank,Income
+1/30/2026,Raast IBFT to MUHAMMAD MOOSA IBAN ****6170,1729,expense,raast_outgoing,Askari Bank,Transfers
+1/31/2026,DEBIT CARD SERVICE CHARGES,370.86,expense,bank_fee,Askari Bank,Fees & Charges
+2/2/2026,Raast P2P Paymen Raast IBFT from ROZINA SALEEM IBAN ****4136,2030,income,raast_incoming,Askari Bank,Income
+2/2/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,10,income,raast_incoming,Askari Bank,Income
+2/2/2026,DEBIT CARD SERVICE CHARGES,2040,expense,bank_fee,Askari Bank,Fees & Charges
+2/3/2026,097530 150934 Mobile App Askari Bank Ltd MUHAMMAD MOOSA ****0741,2000,income,mobile_app_transfer,Askari Bank,Income
+2/3/2026,195405 151944 Mobile App Askari Bank Ltd MUHAMMAD MOOSA ****0741,2000,income,mobile_app_transfer,Askari Bank,Income
+2/3/2026,DEBIT CARD SERVICE CHARGES,1039.14,expense,bank_fee,Askari Bank,Fees & Charges
+2/4/2026,Raast IBFT to AYESHA AYESHA IBAN ****2309,1000,expense,raast_outgoing,Askari Bank,Transfers
+2/6/2026,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,1950,expense,raast_outgoing,Askari Bank,Transfers
+2/6/2026,718733 171034 1LINK MUHAMMAD BILAL ****5376,12000,income,1link_transfer,Askari Bank,Income
+2/6/2026,Raast IBFT to ELITE TRANSPORT SYSTEM IBAN ****3896,12000,expense,raast_outgoing,Askari Bank,Transport
+2/6/2026,Raast P2P Paymen Raast IBFT from MUMTAZ KHAN IBAN ****0175,15000,income,raast_incoming,Askari Bank,Income
+2/6/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,230,income,raast_incoming,Askari Bank,Income
+2/6/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,270,expense,raast_outgoing,Askari Bank,Transfers
+2/6/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,400,expense,raast_outgoing,Askari Bank,Transfers
+2/7/2026,652163 120914 VISA Local POS Purchase at DINOVALLEY Islamabad PK,500,expense,card_purchase,Askari Bank,Entertainment
+2/9/2026,645195 181211 VISA Local POS Purchase at ZAHID MINI MART ISLAMABAD PK,260,expense,card_purchase,Askari Bank,Groceries
+2/9/2026,EB1071601100 UBL Raast IBFT from MUHAMMAD ZUBAIR IBAN ****5886,30000,income,raast_incoming,Askari Bank,Income
+2/9/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+2/9/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,140,expense,raast_outgoing,Askari Bank,Transfers
+2/9/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,80,expense,raast_outgoing,Askari Bank,Transfers
+2/9/2026,Raast IBFT to TALHA HASNAIN IBAN ****4074,550,expense,raast_outgoing,Askari Bank,Transfers
+2/9/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,310,expense,raast_outgoing,Askari Bank,Transfers
+2/10/2026,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,500,expense,raast_outgoing,Askari Bank,Transfers
+2/10/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,480,expense,raast_outgoing,Askari Bank,Transfers
+2/11/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+2/12/2026,"681224 171933 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+2/12/2026,681224 171933 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+2/12/2026,142975 231530 Cash Withdrawal at ATM-IBG PAR HOTI MARDAN MARDAN PK,1000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+2/12/2026,142975 231530 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+2/13/2026,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,800,expense,raast_outgoing,Askari Bank,Transfers
+2/13/2026,Raast IBFT to HUNGER HUB IBAN ****2689,710,expense,raast_outgoing,Askari Bank,Food & Dining
+2/13/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,800,income,raast_incoming,Askari Bank,Income
+2/13/2026,Raast IBFT to QAZI ARSALAN AHMED IBAN ****5326,1300,expense,raast_outgoing,Askari Bank,Transfers
+2/16/2026,961394 214441 Cash Withdrawal at ATM-PARHOTI MARDAN PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+2/16/2026,961394 214441 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+2/16/2026,Raast IBFT to DANIYAL MUSTAFA IBAN ****5610,1250,expense,raast_outgoing,Askari Bank,Transfers
+2/16/2026,Raast IBFT to MUHAMMAD JUNAID AZIZ IBAN ****5245,345,expense,raast_outgoing,Askari Bank,Transfers
+2/16/2026,177005 151750 Mobile App Askari Bank Ltd MUHAMMAD MOOSA ****0741,1015,income,mobile_app_transfer,Askari Bank,Income
+2/16/2026,Others Raast IBFT from MAHIM ILYAS IBAN ****7264,1015,income,raast_incoming,Askari Bank,Income
+2/16/2026,Raast P2P Paymen Raast IBFT from ROZINA SALEEM IBAN ****4136,1015,income,raast_incoming,Askari Bank,Income
+2/16/2026,177509 102138 VISA Local POS Purchase at HOWDY ISLAMABAD PK,6087,expense,card_purchase,Askari Bank,Food & Dining
+2/16/2026,Raast IBFT to MUHAMMAD MOHSIN IBAN ****5661,500,expense,raast_outgoing,Askari Bank,Transfers
+2/17/2026,Raast IBFT to ABDUL SHAKOOR IBAN ****2322,1120,expense,raast_outgoing,Askari Bank,Transfers
+2/17/2026,Raast IBFT to NAVEED IQBAL IBAN ****8191,530,expense,raast_outgoing,Askari Bank,Transfers
+2/17/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,440,expense,raast_outgoing,Askari Bank,Transfers
+2/18/2026,Raast IBFT to FAIZAN MUSTAFFA IBAN ****8100,1550,expense,raast_outgoing,Askari Bank,Transfers
+2/18/2026,462088 164603 Mobile App Askari Bank Ltd MUHAMMAD MOOSA ****0741,100,expense,mobile_app_transfer,Askari Bank,Transfers
+2/18/2026,Raast IBFT to AYESHA IBAN ****5820,1000,expense,raast_outgoing,Askari Bank,Transfers
+2/20/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,500,expense,raast_outgoing,Askari Bank,Transfers
+2/20/2026,Raast P2P Paymen Raast IBFT from ALISHBA QADEER IBAN ****9989,1030,income,raast_incoming,Askari Bank,Income
+2/20/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,270,expense,raast_outgoing,Askari Bank,Transfers
+2/23/2026,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,380,expense,raast_outgoing,Askari Bank,Transfers
+2/23/2026,301417 174411 VISA Local POS Purchase at LA OLIVA ES SMC PRIV ISLAMABAD PK,2950,expense,card_purchase,Askari Bank,Food & Dining
+2/23/2026,437834 234308 Mobile App TRANSFORMATIONS FITNESS STUDIO ****1304,8000,expense,mobile_app_transfer,Askari Bank,Healthcare/Fitness
+2/23/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,310,expense,raast_outgoing,Askari Bank,Transfers
+2/23/2026,Others Raast IBFT from HAMZA RAHIM IBAN ****5424,1000,income,raast_incoming,Askari Bank,Income
+2/23/2026,Raast IBFT to USMAN KHAN IBAN ****1783,903,expense,raast_outgoing,Askari Bank,Transfers
+2/23/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,220,expense,raast_outgoing,Askari Bank,Transfers
+2/25/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,310,expense,raast_outgoing,Askari Bank,Transfers
+2/26/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,240,expense,raast_outgoing,Askari Bank,Transfers
+2/27/2026,Raast IBFT to AYESHA IBAN ****5820,150,expense,raast_outgoing,Askari Bank,Transfers
+3/2/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,500,expense,raast_outgoing,Askari Bank,Transfers
+3/2/2026,Raast IBFT to MUHAMMAD BILAL IBAN ****5376,300,expense,raast_outgoing,Askari Bank,Transfers
+3/2/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,140,expense,raast_outgoing,Askari Bank,Transfers
+3/4/2026,Raast P2P Paymen Raast IBFT from MUMTAZ KHAN IBAN ****0175,15000,income,raast_incoming,Askari Bank,Income
+3/4/2026,Raast IBFT to ELITE TRANSPORT SYSTEM IBAN ****3896,12000,expense,raast_outgoing,Askari Bank,Transport
+3/4/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,360,expense,raast_outgoing,Askari Bank,Transfers
+3/5/2026,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,1500,expense,raast_outgoing,Askari Bank,Transfers
+3/5/2026,Raast IBFT to AKBARO IBAN ****8484,3000,expense,raast_outgoing,Askari Bank,Transfers
+3/6/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,680,expense,raast_outgoing,Askari Bank,Transfers
+3/9/2026,Raast IBFT to Zaki Ul Hassan IBAN ****4874,1700,expense,raast_outgoing,Askari Bank,Transfers
+3/9/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,550,expense,raast_outgoing,Askari Bank,Transfers
+3/9/2026,Raast P2P Paymen Raast IBFT from AKBARO IBAN ****8484,3000,income,raast_incoming,Askari Bank,Income
+3/10/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,170,expense,raast_outgoing,Askari Bank,Transfers
+3/10/2026,Raast IBFT to ISMAIL KHAN IBAN ****2122,2550,expense,raast_outgoing,Askari Bank,Transfers
+3/10/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,280,expense,raast_outgoing,Askari Bank,Transfers
+3/11/2026,RAAST Reversals RAAST RVR VAL DTD 09-MARCH-26 AGAINST TXN ID# ASCM2603091616344781697449145,550,income,reversal,Askari Bank,Refund/Reversal
+3/11/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,1030,expense,raast_outgoing,Askari Bank,Transfers
+3/12/2026,Raast IBFT to ISMAIL KHAN IBAN ****2122,3050,expense,raast_outgoing,Askari Bank,Transfers
+3/12/2026,Raast IBFT to ISMAIL KHAN IBAN ****2122,3050,income,raast_outgoing,Askari Bank,Income
+3/12/2026,Raast IBFT to ISMAIL KHAN IBAN ****2122,3050,expense,raast_outgoing,Askari Bank,Transfers
+3/12/2026,Raast IBFT to ISMAIL KHAN IBAN ****2122,3050,income,raast_outgoing,Askari Bank,Income
+3/12/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,3000,expense,raast_outgoing,Askari Bank,Transfers
+3/12/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,50,expense,raast_outgoing,Askari Bank,Transfers
+3/12/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,200,expense,raast_outgoing,Askari Bank,Transfers
+3/12/2026,EB1111423784 UBL Raast IBFT from MUHAMMAD ZUBAIR IBAN ****5886,30000,income,raast_incoming,Askari Bank,Income
+3/12/2026,844540 230459 1LINK HAMZA RAHIM ****5424,4250,income,1link_transfer,Askari Bank,Income
+3/12/2026,Raast IBFT to MUHAMMAD ZUBAIR IBAN ****8278,3366,expense,raast_outgoing,Askari Bank,Transfers
+3/13/2026,Others Raast IBFT from MUHAMMAD BILAL IBAN ****5376,300,income,raast_incoming,Askari Bank,Income
+3/13/2026,Raast IBFT to NOOR UL FAJJAR IBAN ****3571,1,expense,raast_outgoing,Askari Bank,Transfers
+3/13/2026,Raast IBFT to NOOR UL FAJJAR IBAN ****3571,1,expense,raast_outgoing,Askari Bank,Transfers
+3/13/2026,Raast IBFT to HAMMAD GUL IBAN ****5085,900,expense,raast_outgoing,Askari Bank,Transfers
+3/13/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,280,expense,raast_outgoing,Askari Bank,Transfers
+3/14/2026,Raast IBFT to MUHAMMAD NOMAN IBAN ****7162,1015,expense,raast_outgoing,Askari Bank,Transfers
+3/14/2026,Others Raast IBFT from HAMZA RAHIM IBAN ****5424,450,income,raast_incoming,Askari Bank,Income
+3/16/2026,Raast IBFT to MUHAMMAD KASHIF MAQSOOD IBAN ****9515,330,expense,raast_outgoing,Askari Bank,Transfers
+3/16/2026,Raast IBFT to SAFA CAFE IBAN ****5381,710,expense,raast_outgoing,Askari Bank,Food & Dining
+3/16/2026,Raast IBFT to SAFA CAFE IBAN ****5381,710,expense,raast_outgoing,Askari Bank,Food & Dining
+3/16/2026,"172895 160856 Cash Withdrawal at ATM-B-17, ISLAMABAD ISLAMABAD PK",2000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+3/16/2026,172895 160856 ATM Switch Charges,35,expense,bank_fee,Askari Bank,Fees & Charges
+3/17/2026,Raast IBFT to IRFAN UL HAQ IBAN ****9041,690,expense,raast_outgoing,Askari Bank,Transfers
+3/19/2026,084901 181925 VISA Local POS Purchase at CHEEZIOUS NORTH MARDAN PK,3434,expense,card_purchase,Askari Bank,Food & Dining
+3/24/2026,Raast IBFT to MUHAMMAD ATIF YOUSAF IBAN ****0001,6000,expense,raast_outgoing,Askari Bank,Transfers
+3/25/2026,Raast IBFT to NOOR UL FAJJAR IBAN ****3571,200,expense,raast_outgoing,Askari Bank,Transfers
+4/6/2026,Raast IBFT to HAMZA RAHIM IBAN ****0085,1600,expense,raast_outgoing,Askari Bank,Transfers
+4/6/2026,Raast IBFT to MUHAMMAD MOHSIN IBAN ****5661,3000,expense,raast_outgoing,Askari Bank,Transfers
+4/6/2026,Raast IBFT to IKRAM ULLAH KHAN IBAN ****4352,120,expense,raast_outgoing,Askari Bank,Transfers
+4/6/2026,582287 124604 VISA Local POS Purchase at SMASHERS ISLAMABAD PK,2840,expense,card_purchase,Askari Bank,Food & Dining
+4/6/2026,459752 184541 Mobile App Askari Bank Ltd MUHAMMAD MOOSA ****0741,14000,income,mobile_app_transfer,Askari Bank,Income
+4/6/2026,242687 184700 1LINK MUHAMMAD MUSA ****6170,13000,income,1link_transfer,Askari Bank,Income
+4/6/2026,Raast IBFT to ISLAMABAD BOYS HOSTEL IBAN ****4051,27000,expense,raast_outgoing,Askari Bank,Rent/Hostel
+4/6/2026,393448 224906 1LINK ****1636,30000,income,1link_transfer,Askari Bank,Income
+4/6/2026,Raast IBFT to JAVAID IQBAL IBAN ****0552,1010,expense,raast_outgoing,Askari Bank,Transfers
+4/6/2026,Raast IBFT to ISLAMABAD BOYS HOSTEL IBAN ****4051,27000,expense,raast_outgoing,Askari Bank,Rent/Hostel
+4/7/2026,Raast IBFT to QAISAR NAWAZ KHAN IBAN ****3894,177,expense,raast_outgoing,Askari Bank,Transfers
+4/8/2026,Raast IBFT to KHAIR ULLAH IBAN ****4127,310,expense,raast_outgoing,Askari Bank,Transfers
+4/8/2026,198190 121940 Mobile App ****8100,800,expense,mobile_app_transfer,Askari Bank,Transfers
+4/8/2026,385839 010732 1LINK MAHIM ILYAS ****7264,400,income,1link_transfer,Askari Bank,Income
+4/8/2026,Raast IBFT to SIKANDAR HAYAT IBAN ****1639,120,expense,raast_outgoing,Askari Bank,Transfers
+4/8/2026,456433 192336 Cash Withdrawal at ATM-IBD I-9 ISLAMABAD PK,3000,expense,atm_cash_withdrawal,Askari Bank,Cash Withdrawal
+4/10/2026,138526 201337 Mobile App Askari Bank Ltd USMAN IHSAN ****0063,100000,income,mobile_app_transfer,Askari Bank,Income
+4/10/2026,276344 202707 Mobile App Askari Bank Ltd AYESHA ****0477,15000,income,mobile_app_transfer,Askari Bank,Income
+4/10/2026,371865 203744 Mobile App Askari Bank Ltd IQRA UNIVERSITY COLLECTION A\C ****0822,120000,expense,mobile_app_transfer,Askari Bank,Education
+4/13/2026,Raast IBFT to SHERAZ SHERAZ IBAN ****8528,650,expense,raast_outgoing,Askari Bank,Transfers
+4/13/2026,Raast IBFT to ALI HASSAN IBAN ****5814,270,expense,raast_outgoing,Askari Bank,Transfers
+4/13/2026,297151 232904 Mobile App Askari Bank Ltd MUHAMMAD MOOSA ****0741,520,expense,mobile_app_transfer,Askari Bank,Transfers
+4/17/2026,EB1152807985 UBL Raast IBFT from MUHAMMAD ZUBAIR IBAN ****5886,30000,income,raast_incoming,Askari Bank,Income
+4/17/2026,Raast IBFT to ALI HAMZA IBAN ****6079,200,expense,raast_outgoing,Askari Bank,Transfers
+4/17/2026,9999 Others Raast IBFT from MUHAMMAD MOEEZ HAMEED IBAN ****1616,680,income,raast_incoming,Askari Bank,Income
+4/17/2026,183415 194056 1LINK AFAQ AHMED ****8869,660,income,1link_transfer,Askari Bank,Income
+4/17/2026,Raast IBFT to SHERAZ HUSSAIN IBAN ****9085,2710,expense,raast_outgoing,Askari Bank,Transfers
+4/17/2026,485409 194802 Mobile App KASHIF QAMAR IQBAL ****2032,330,expense,mobile_app_transfer,Askari Bank,Transfers
+4/17/2026,Raast IBFT to New Book Palace IBAN ****0557,120,expense,raast_outgoing,Askari Bank,Education
+4/18/2026,Raast IBFT to MUHAMMAD NAEEM IBAN ****2842,620,expense,raast_outgoing,Askari Bank,Transfers
+4/18/2026,Raast P2P Paymen Raast IBFT from MUHAMMAD MUSA IBAN ****1381,500,income,raast_incoming,Askari Bank,Income
+4/18/2026,Raast IBFT to JAWAD AHMED IBAN ****5275,420,expense,raast_outgoing,Askari Bank,Transfers
+4/18/2026,064043 115831 VISA Local POS Purchase at WRAP LAB RAWALPINDI PK,1383.9,expense,card_purchase,Askari Bank,Food & Dining
+4/18/2026,Raast IBFT to MUBASHIR INTIZAR IBAN ****6702,540,expense,raast_outgoing,Askari Bank,Transfers
+4/18/2026,Raast IBFT to NASIR HAMEED MASIH IBAN ****9077,320,expense,raast_outgoing,Askari Bank,Transfers

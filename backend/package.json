@@ -1,0 +1,44 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "migrate": "node db/migrate.js",
+    "seed": "node db/seed.js",
+    "export:feedback": "node scripts/export-feedback-training-data.js",
+    "retrain:feedback": "node scripts/retrain-from-feedback.js",
+    "smoke:forecast": "node scripts/phase5-forecast-smoke.js",
+    "smoke:anomaly": "node scripts/phase6-anomaly-smoke.js",
+    "smoke:ai-context": "node scripts/phase7-ai-context-smoke.js",
+    "smoke:import-textract": "node scripts/phase8-import-textract-smoke.js",
+    "smoke:stocks": "node scripts/phase9-stocks-smoke.js",
+    "smoke:ai-actions": "node scripts/phase10-ai-actions-smoke.js",
+    "test:import": "node tests/import/normalizationService.test.js && node tests/import/categorizationService.test.js && node tests/import/dedupeService.test.js && node tests/import/importPipelineService.test.js && node tests/transactions/transactionWriteService.test.js",
+    "test:stocks": "node tests/stocks/stockNormalizer.test.js && node tests/stocks/stockService.test.js && node tests/stocks/stockController.test.js && node tests/stocks/stockInsightsService.test.js",
+    "test:budgets": "node tests/budgets/suggestedPlanService.test.js && node tests/budgets/onboardingBudgetPlan.test.js",
+    "test:ai": "node tests/ai/actionExecutionService.test.js && node tests/ai/aiController.test.js && node tests/ai/advisorService.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.14.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "express-rate-limit": "^7.4.0",
+    "nodemailer": "^6.9.15",
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1",
+    "joi": "^18.1.2",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.0.2",
+    "pg": "^8.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
