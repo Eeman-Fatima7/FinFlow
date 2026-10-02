@@ -1,0 +1,14 @@
+cd /d/fypp/fyp
+
+cat > ml/.dockerignore <<'EOF'
+.venv
+__pycache__
+*.pyc
+.env
+.env.*
+.git
+.gitignore
+*.log
+.ipynb_checkpoints
+notebooks
+EOF
